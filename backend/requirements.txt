@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+aiortc
+sse-starlette
+requests
+google-genai
+python-dotenv
